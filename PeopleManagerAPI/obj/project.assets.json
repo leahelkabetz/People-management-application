@@ -5164,11 +5164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\תרגיל בית\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\People-management-application\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
       "projectName": "PeopleManagerAPI",
-      "projectPath": "C:\\Users\\משתמש\\Desktop\\תרגיל בית\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
+      "projectPath": "C:\\Users\\משתמש\\Desktop\\People-management-application\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
       "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\משתמש\\Desktop\\תרגיל בית\\PeopleManagerAPI\\obj\\",
+      "outputPath": "C:\\Users\\משתמש\\Desktop\\People-management-application\\PeopleManagerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

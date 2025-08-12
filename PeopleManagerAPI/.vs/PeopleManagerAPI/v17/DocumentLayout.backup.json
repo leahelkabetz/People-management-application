@@ -1,45 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\peoplemanagerapi\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\people-management-application\\peoplemanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\people-management-application\\peoplemanagerapi\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|solutionrelative:services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\peoplemanagerapi\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\people-management-application\\peoplemanagerapi\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|solutionrelative:controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\peoplemanagerapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\people-management-application\\peoplemanagerapi\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\peoplemanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\people-management-application\\peoplemanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\peoplemanagerapi\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\people-management-application\\peoplemanagerapi\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|solutionrelative:services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\peoplemanagerapi\\peoplemanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\people-management-application\\peoplemanagerapi\\peoplemanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|solutionrelative:peoplemanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_\u05DE\u05E9\u05EA\u05DE\u05E9_DOCUMENTS_PEOPLEMANAGERDB.MDF/True/SqlTable/dbo.Person.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\peoplemanagerapi\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\people-management-application\\peoplemanagerapi\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|solutionrelative:data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|c:\\users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\peoplemanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A66B07AE-2828-4EE1-8E05-47C4EB94A663}|PeopleManagerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Mode\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mode\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Mode\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,80 +48,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PeopleController.cs",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Controllers\\PeopleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PeopleController.cs",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Controllers\\PeopleController.cs",
-              "RelativeToolTip": "Controllers\\PeopleController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwFcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T13:26:31.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T13:53:54.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Services\\PersonService.cs",
+              "RelativeToolTip": "Services\\PersonService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:03:16.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IPersonService.cs",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Services\\IPersonService.cs",
-              "RelativeDocumentMoniker": "Services\\IPersonService.cs",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Services\\IPersonService.cs",
-              "RelativeToolTip": "Services\\IPersonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T14:03:32.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "Models\\Person.cs",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Models\\Person.cs",
-              "RelativeToolTip": "Models\\Person.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T13:53:54.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Services\\PersonService.cs",
-              "RelativeDocumentMoniker": "Services\\PersonService.cs",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Services\\PersonService.cs*",
-              "RelativeToolTip": "Services\\PersonService.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T14:03:16.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T08:42:48.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T08:42:48.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PeopleManagerAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
               "RelativeDocumentMoniker": "PeopleManagerAPI.csproj",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
               "RelativeToolTip": "PeopleManagerAPI.csproj",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -130,11 +100,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T10:35:57.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Services\\IPersonService.cs",
+              "RelativeDocumentMoniker": "Services\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Services\\IPersonService.cs",
+              "RelativeToolTip": "Services\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:03:32.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "mycontext.cs",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Data\\mycontext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Data\\mycontext.cs",
               "RelativeDocumentMoniker": "Data\\mycontext.cs",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Data\\mycontext.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Data\\mycontext.cs",
               "RelativeToolTip": "Data\\mycontext.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAA7wCIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,7 +137,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\People-management-application\\PeopleManagerAPI\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Controllers\\PeopleController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:26:31.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "dbo.Person.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_\u05DE\u05E9\u05EA\u05DE\u05E9_DOCUMENTS_PEOPLEMANAGERDB.MDF/True/SqlTable/dbo.Person.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_\u05DE\u05E9\u05EA\u05DE\u05E9_DOCUMENTS_PEOPLEMANAGERDB.MDF/True/SqlTable/dbo.Person.sql",
@@ -154,24 +161,12 @@
               "DocumentIndex": 9,
               "Title": "mycontext.cs",
               "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Mode\\mycontext.cs",
-              "RelativeDocumentMoniker": "Mode\\mycontext.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Mode\\mycontext.cs",
               "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Mode\\mycontext.cs",
-              "RelativeToolTip": "Mode\\mycontext.cs",
+              "RelativeToolTip": "..\\..\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\Mode\\mycontext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T13:27:41.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\PeopleManagerAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-06T10:35:57.31Z"
             }
           ]
         }

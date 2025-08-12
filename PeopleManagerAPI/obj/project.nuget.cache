@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SqRbqn7u5B4=",
+  "dgSpecHash": "l9TywgxJwxQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\משתמש\\Desktop\\תרגיל בית\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
+  "projectFilePath": "C:\\Users\\משתמש\\Desktop\\People-management-application\\PeopleManagerAPI\\PeopleManagerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\משתמש\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\משתמש\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
