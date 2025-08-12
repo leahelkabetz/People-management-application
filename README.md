@@ -20,3 +20,10 @@ A full-stack application for managing a people directory: add, edit, delete, and
 **Backend:** ASP.NET Core Web API (C#)  
 **Database:** SQL Server 
 
+### Frontend: 
+```powershell
+cd client
+npm install
+npm start
+# App available at: http://localhost:4200
+```
