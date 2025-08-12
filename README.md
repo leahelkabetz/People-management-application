@@ -20,9 +20,14 @@ A full-stack application for managing a people directory: add, edit, delete, and
 **Backend:** ASP.NET Core Web API (C#)  
 **Database:** SQL Server 
 
+## Running the Application
+### Backend (C# API)
+Before running the backend, make sure to set your database connection string in the file:
+PeopleManagerAPI/appsettings.json → inside the "ConnectionStrings" section.
+
 ### Frontend: 
 ```powershell
-cd client
+cd people-manager-client
 npm install
 npm start
 # App available at: http://localhost:4200
