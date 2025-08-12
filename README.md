@@ -25,7 +25,7 @@ A full-stack application for managing a people directory: add, edit, delete, and
 **Database:** SQL Server 
 
 ## Running the Application
-### Backend 
+### Backend:
 Before running the backend, make sure to set your database connection string in the file:
 PeopleManagerAPI/appsettings.json → inside the "DefaultConnection" section.
 
