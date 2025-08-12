@@ -1,0 +1,106 @@
+:host {
+  --line: rgba(232, 246, 247, 0.15);
+  --font: 'Assistant', 'Arial', sans-serif;
+  font-family: var(--font) !important;
+  color: #fff;
+}
+
+
+:host ::ng-deep .panel__search .mat-mdc-input-element {
+  color: var(--color-primary) !important;
+  font-family: var(--font) !important;
+  caret-color: var(--color-brown) !important;
+}
+
+:host ::ng-deep .panel__search .mat-mdc-input-element::placeholder {
+  color: var(--color-primary) !important;
+  opacity: 1 !important;
+}
+
+:host ::ng-deep .panel__search .mat-mdc-text-field-wrapper.mdc-text-field--filled {
+  background: transparent;
+  margin: 20px 40px 20px 0;
+}
+
+:host ::ng-deep .panel__search .mdc-line-ripple::before {
+  border-bottom-color: var(--text);
+}
+
+:host ::ng-deep .panel__search .mdc-line-ripple::after,
+:host ::ng-deep .panel__search .mat-mdc-text-field-wrapper.mdc-text-field--focused .mdc-line-ripple::after {
+  border-bottom-color: var(--color-brown) !important;
+}
+
+:host ::ng-deep .panel__search .search-icon {
+  color: #fff !important;
+}
+
+
+.table-wrap {
+  max-height: calc(56px * 7 + 56px); 
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+table.people-table {
+  border-collapse: collapse !important; 
+  width: 100%;
+  background: transparent !important;
+}
+
+:host ::ng-deep .people-table .mat-mdc-header-row,
+:host ::ng-deep .people-table .mat-mdc-row {
+  border-bottom: 1px solid var(--line) !important;
+}
+
+:host ::ng-deep .people-table th,
+:host ::ng-deep .people-table td {
+  font-family: var(--font) !important;
+  color: #fff !important;
+  padding: 12px 16px;
+  vertical-align: middle;
+  white-space: nowrap;
+  border-bottom: none !important;
+}
+
+:host ::ng-deep .people-table thead th {
+  position: sticky;
+  top: 0;
+  background: var(--color-turkize);
+  z-index: 99;
+}
+
+:host ::ng-deep .mat-sort-header-arrow {
+  display: none !important;
+}
+
+:host ::ng-deep .people-table .mat-icon {
+  color: var(--color-brown) !important;
+}
+
+
+mat-card.panel {
+  background: linear-gradient(180deg, var(--panel), var(--panel-2));
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent;
+  margin-top: 20px;
+}
+
+:host ::ng-deep .mat-mdc-progress-spinner circle {
+  stroke: #fff !important;
+}
+
+
+.fit-input {
+  width: auto;
+  min-width: 2ch;
+  max-width: 20ch;
+}

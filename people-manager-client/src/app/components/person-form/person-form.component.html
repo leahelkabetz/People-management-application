@@ -1,0 +1,71 @@
+<mat-card dir="rtl">
+    <mat-card-content>
+        <h3 class="panel-title">הוספת אדם חדש</h3>
+        <form class="form" [formGroup]="form" (ngSubmit)="submit()" novalidate>
+            <mat-form-field appearance="fill">
+                <mat-label>שם פרטי</mat-label>
+                <input matInput formControlName="firstName" />
+                <mat-error
+                    *ngIf="form.controls['firstName'].touched && form.controls['firstName'].hasError('required')">
+                    שדה חובה
+                </mat-error>
+                <mat-error
+                    *ngIf="form.controls['firstName'].touched && form.controls['firstName'].hasError('minlength')">
+                    לפחות 2 תווים
+                </mat-error>
+            </mat-form-field>
+
+            <mat-form-field appearance="fill">
+                <mat-label>שם משפחה</mat-label>
+                <input matInput formControlName="lastName" />
+                <mat-error *ngIf="form.controls['lastName'].touched && form.controls['lastName'].hasError('required')">
+                    שדה חובה
+                </mat-error>
+                <mat-error *ngIf="form.controls['lastName'].touched && form.controls['lastName'].hasError('minlength')">
+                    לפחות 2 תווים
+                </mat-error>
+            </mat-form-field>
+
+            <mat-form-field appearance="fill">
+                <mat-label>אימייל</mat-label>
+                <input matInput type="email" formControlName="email" />
+                <mat-error *ngIf="form.controls['email'].touched && form.controls['email'].hasError('required')">
+                    שדה חובה
+                </mat-error>
+                <mat-error *ngIf="form.controls['email'].touched && form.controls['email'].hasError('email')">
+                    אימייל לא תקין
+                </mat-error>
+            </mat-form-field>
+
+            <mat-form-field appearance="fill">
+                <mat-label>טלפון נייד</mat-label>
+                <input matInput formControlName="phoneNumber" />
+                <mat-error
+                    *ngIf="form.controls['phoneNumber'].touched && form.controls['phoneNumber'].hasError('required')">
+                    שדה חובה
+                </mat-error>
+                <mat-error
+                    *ngIf="form.controls['phoneNumber'].touched && form.controls['phoneNumber'].hasError('pattern')">
+                    מספר לא תקין
+                </mat-error>
+            </mat-form-field>
+
+            <mat-form-field appearance="fill">
+                <mat-label>ת״ז</mat-label>
+                <input matInput formControlName="identityNumber" />
+                <mat-error
+                    *ngIf="form.controls['identityNumber'].touched && form.controls['identityNumber'].hasError('required')">
+                    שדה חובה
+                </mat-error>
+                <mat-error
+                    *ngIf="form.controls['identityNumber'].touched && form.controls['identityNumber'].hasError('pattern')">
+                    ת״ז חייבת להיות 9 ספרות
+                </mat-error>
+            </mat-form-field>
+
+            <button mat-raised-button color="primary" type="submit" [disabled]="form.invalid">
+                הוסף
+            </button>
+        </form>
+    </mat-card-content>
+</mat-card>

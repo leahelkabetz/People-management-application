@@ -1,0 +1,115 @@
+mat-card {
+  background: transparent !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 24px 22px;
+}
+
+@media (min-width: 420px) {
+  mat-card {
+    padding: 28px 26px;
+  }
+}
+
+form {
+  display: grid;
+  gap: 14px;
+}
+
+@media (min-width: 420px) {
+  form {
+    gap: 16px;
+  }
+}
+
+.panel-title {
+  margin-top: -20px;
+  margin-bottom: 22px;
+  text-align: right;
+  letter-spacing: 1px;
+  color: var(--color-primary);
+}
+
+button[type="submit"],
+button.submit {
+  width: 110px;
+  justify-self: center;
+  border-radius: 10px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  color: var(--color-primary);
+  background: var(--color-brown);
+  font-family: var(--font);
+  transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+  box-shadow: 0 6px 14px rgba(54, 185, 200, 0.25);
+}
+
+button[type="submit"]:hover,
+button.submit:hover {
+  background: var(--accent-2);
+  transform: translateY(-1px);
+  box-shadow: 0 10px 20px rgba(54, 185, 200, 0.32);
+}
+
+button[type="submit"]:active,
+button.submit:active {
+  transform: translateY(0);
+}
+
+:host ::ng-deep .mat-mdc-form-field {
+  --mdc-theme-text-primary-on-background: var(--text);
+  --mdc-filled-text-field-caret-color: var(--accent);
+  width: 100%;
+}
+
+:host ::ng-deep .mat-mdc-text-field-wrapper.mdc-text-field--filled {
+  background: transparent;
+}
+
+:host ::ng-deep .mdc-line-ripple::before {
+  border-bottom-color: var(--color-pink) !important;
+}
+
+:host ::ng-deep .mat-mdc-form-field .mdc-line-ripple::after {
+  border-bottom-color: var(--color-brown) !important;
+}
+
+:host ::ng-deep .mat-mdc-form-field.mdc-text-field--focused .mdc-line-ripple::after,
+:host ::ng-deep .mat-mdc-form-field:hover .mdc-line-ripple::after {
+  border-bottom-color: var(--color-brown) !important;
+}
+
+:host ::ng-deep .mdc-floating-label,
+:host ::ng-deep .mat-mdc-input-element::placeholder {
+  color: var(--muted);
+}
+
+:host ::ng-deep .mat-mdc-form-field .mdc-floating-label {
+  color: #fff !important;
+  font-weight: 500;
+  transition: color 0.2s;
+  font-size: small;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+:host ::ng-deep .mat-mdc-input-element {
+  color: var(--color-primary) !important;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, "Helvetica Neue", sans-serif !important;
+  font-size: small;
+  text-align: right;
+}
+
+:host ::ng-deep .mat-mdc-input-element:focus {
+  caret-color: var(--color-brown) !important;
+}
+
+:host ::ng-deep .mat-mdc-form-field-icon-suffix,
+:host ::ng-deep .mat-mdc-form-field-icon-prefix {
+  color: rgba(232, 246, 247, 0.6);
+}
+
+:host ::ng-deep .mat-mdc-form-field-error {
+  color: #ff8181;
+  font-weight: 500;
+}

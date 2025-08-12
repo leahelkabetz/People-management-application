@@ -1,0 +1,24 @@
+<div class="page" dir="rtl">
+    <mat-toolbar color="primary" class="toolbar">
+        <span>ניהול מאגר אנשים</span>
+    </mat-toolbar>
+    <div class="container">
+        <div class="grid">
+            <mat-card class="card card--table">
+                <mat-card-content class="content">
+
+                    <app-people-table [people]="people" [loading]="loading" (deleted)="onDeleted($event)"
+                        (saved)="onSaved($event)">
+
+                    </app-people-table>
+                </mat-card-content>
+            </mat-card>
+
+            <mat-card class="card card--form">
+                <mat-card-content class="content">
+                    <app-person-form (added)="onAdded($event)"></app-person-form>
+                </mat-card-content>
+            </mat-card>
+        </div>
+    </div>
+</div>
