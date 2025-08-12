@@ -37,4 +37,4 @@ npm start
 # App available at: http://localhost:4200
 ```
 
-### This project was developed with a focus on clean code, clear structure, and maintainability, following best practices in both frontend and backend development.
+#### This project was developed with a focus on clean code, clear structure, and maintainability, following best practices in both frontend and backend development.
