@@ -2,6 +2,10 @@
 
 A full-stack application for managing a people directory: add, edit, delete, and list entries with free-text search, client/server validations, and a clean UI.
 
+<p align="center">
+  <img src="people-manager-client/src/assets/images/system.png" alt="System screenshot" width="720">
+</p>
+
 ---
 
 ## Features
