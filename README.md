@@ -24,6 +24,8 @@ A full-stack application for managing a people directory: add, edit, delete, and
 **Backend:** ASP.NET Core Web API (C#)  
 **Database:** SQL Server 
 
+---
+
 ## Running the Application
 ### Backend:
 Before running the backend, make sure to set your database connection string in the file:
@@ -36,5 +38,7 @@ npm install
 npm start
 # App available at: http://localhost:4200
 ```
+
+---
 
 #### This project was developed with a focus on clean code, clear structure, and maintainability, following best practices in both frontend and backend development.
